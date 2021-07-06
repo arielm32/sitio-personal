@@ -1,0 +1,14 @@
+*{
+}
+
+
+body{
+  background: DodgerBlue;
+}
+div{
+    height: 200px;
+    background-color: #EEE;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
